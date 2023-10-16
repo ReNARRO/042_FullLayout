@@ -73,7 +73,7 @@ fun Home(){
         )
         Lokasi()
         Spacer(modifier = Modifier
-            .padding(20.dp)
+            .padding(10.dp)
         )
         Keterangan()
         
